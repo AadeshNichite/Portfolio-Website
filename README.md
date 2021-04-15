@@ -8,7 +8,7 @@ This is Portfolio web application which contains information about me.
 
 ## Technology Used:
 
-HTML, CSS, JavaScript, JQuery.
+HTML, CSS, Bootstrap, JavaScript, JQuery.
 
 ## Visit:
 [Portfolio](https://aadeshnichite.github.io/Portfolio-Website/)
